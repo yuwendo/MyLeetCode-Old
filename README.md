@@ -11,3 +11,9 @@ To record the codes that submitting on leetcode
 	3. 104_max_depth_of_binary_tree (2017/05/02)   
 	4. 226_invert_binary_tree (2017/05/02)   
 	5. 563_Binary_Tree_Tilt (2017/05/02)  
+	6. 111_Minimum_Depth_of_Binary_Tree (2017/05/10)  
+
+##database_SQL
+	1. 182_Duplicate_Emails (2017/05/10)
+	
+
