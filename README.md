@@ -14,6 +14,12 @@ To record the codes that submitting on leetcode
 	6. 111_Minimum_Depth_of_Binary_Tree (2017/05/10)  
 
 ##database_SQL
-	1. 182_Duplicate_Emails (2017/05/10)
-	
+	1. 182_Duplicate_Emails (2017/05/10)  
+	2. 175_Combine_Two_Tables (2017/05/17)  
+	3. 181_Employees_Earning_More_Than_Their_Managers (2017/05/17)   
+	4. 183_Customers_Who_Never_Order (2017/05/17) 
+	5. 197_Rising_Temperature (2017/05/17)  
+	6. 196_Delete_Duplicate_Emails (2017/05/17)
+
+
 
