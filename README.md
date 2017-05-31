@@ -15,6 +15,8 @@ To record the codes that submitting on leetcode
 	5. 563_Binary_Tree_Tilt (2017/05/02)  
 	6. 111_Minimum_Depth_of_Binary_Tree (2017/05/10)  
 	7. 344_Reverse_String (2017/05/18)  
+	8. 541_Reverse_String_II (2017/05/20)  
+	9. 206_Reverse_Linked_List (2017/05/21)  
 
 ##database_SQL  
 	1. 182_Duplicate_Emails (2017/05/10)  
