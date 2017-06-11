@@ -18,7 +18,7 @@ To record the codes that submitting on leetcode
 	8.	541_Reverse_String_II (2017/05/20)  
 	9.	206_Reverse_Linked_List (2017/05/21)  
 	10.	434_Number_of_Segments_in_a_String (2017/06/02)  
-	11. 387_First_Unique_character_in_a_String (2017/06/02) - have not finished....   
+	11. 387_First_Unique_character_in_a_String (2017/06/06) 
 
 ##database_SQL  
 	1.	182_Duplicate_Emails (2017/05/10)  
