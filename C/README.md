@@ -1,0 +1,25 @@
+## C  
+    To record the finished algorithm problem on leetcode for C language.  
+  
+## Finished target (order by problem ID)    
+	1.	 104_max_depth_of_binary_tree (2017/05/02)  
+	2.	 111_Minimum_Depth_of_Binary_Tree (2017/05/10)  
+	3.	 204_Count_Primes (2017/06/26)   
+	4.	 206_Reverse_Linked_List (2017/05/21)  
+	5.	 226_invert_binary_tree (2017/05/02)  
+	6.	 231_Power_of_Two (2017/06/15)  
+	7.	 263_Ugly_Number (2017/06/28)  
+	8.	 283_Move_Zeroes (2017/06/15)  
+	9.	 326_Power_of_Three (2017/06/15)  
+	10.	 344_Reverse_String (2017/05/18)  
+	11.	 371_Sum_of_Two_Integers (2017/06/20)  
+	12.	 387_First_Unique_character_in_a_String (2017/06/06)  
+	13.	 389_Find_the_Difference (2017/04/26)  
+	14.	 412_Fizz_Buzz (2017/06/12)  
+	15.	 434_Number_of_Segments_in_a_String (2017/06/02)  
+	16.	 476_Number_complement (2017/04/26)  
+	17.	 520_Detect_Capital (2017/06/12)  
+	18.	 541_Reverse_String_II (2017/05/20)  
+	19.	 561_Array_Partition_I (2017/06/08)  
+	20.	 563_Binary_Tree_Tilt (2017/05/02)   
+  
